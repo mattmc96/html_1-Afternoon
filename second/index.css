@@ -1,0 +1,41 @@
+
+.outer-box {
+    width: 50vw;
+    height: 2vh;
+    border: 1px solid black;
+    margin: 500px 0px 0px 0px;
+    background-color: white;
+    padding: 300px 500px 30px 0px;
+    float: bottom;
+}
+
+.inner-box {
+    width: 50vw;
+    height: 2vh;
+    border: 1px solid black;
+    margin: 500px 0px 0px 0px;
+    background-color: white;
+    padding: 300px 500px 30px 0px;
+    float: bottom;
+}
+
+.middle-box {
+    width: 25vw;
+    height: 2vh;
+    border: 1px solid black;
+    margin: 500px 0px 300px 0px;
+    background-color: wheat;
+    padding: 300px 500px 30px 0px;
+  
+}
+
+.btm-box {
+    width: 25vw;
+    height: 2vh;
+    border: 1px solid black;
+    margin: 500px 0px 0px 0px;
+    background-color: white;
+    padding: 300px 500px 30px 0px;
+    float: bottom;
+}
+
