@@ -1,83 +1,84 @@
 .box1 {
-height: 100px;
+height: 200px;
 width: 100%;
 border: none;
 background-color: grey;
 margin: auto;
 box-sizing: border-box;
-position: absolute;
-left: 0px;
-top: 0px;
+left: 20px;
+right: 20px;
 
 }
 
- #inside-box1 
+ #inside-box1 {
+     height: 50px;
+     width: 150px;
+     border: solid 1px;
+     background-color: blue;
+     margin: auto;
+     margin-left: 100px;
+     padding-bottom: 20px;
+     padding-top: 110px;
+     margin-top: auto;
+     margin-bottom: auto;
+     box-sizing: border-box;
+ }
 
 
 
 .box2 {
-height: 00px;
+height: 400px;
 width: 100%;
 border: none;
 background-color: white;
 margin: auto;
 box-sizing: border-box;
-position: absolute;
-margin-top: 200px;
-left: 0px;
-padding: 25px 0px 25px 0px;
+left: 20px;
+right: 20px;
 }
 
 .box3 {
-height: 100px;
+height: 200px;
 width: 100%;
 border: none;
 background-color: rgb(0, 140, 255);
 margin: auto;
 box-sizing: border-box;
-position: absolute;
-margin-top: 500px;
-left: 0px;
-
+left: 20px;
+right: 20px;
 }
 
 .box4 {
-height: 100px;
+height: 200px;
 width: 100%;
 border: none;
 background-color: teal;
 margin: auto;
 box-sizing: border-box;
-position: absolute;
-margin-top: 600px;
-left: 0px;
-
-
+left: 20px;
+right: 20px;
 
 }
 
 .box5 {
-height: 100px;
+height: 200px;
 width: 100%;
 border: none;
 background-color: rgb(0, 255, 106);
 margin: auto;
 box-sizing: border-box;
-position: absolute;
-margin-top: 40%;
-left: 0px;
+left: 20px;
+right: 20px;
 
 }
 
 .box6 {
-height: 100px;
+height: 200px;
 width: 100%;
 border: none;
 background-color: rgb(234, 238, 25);
 margin: auto;
 box-sizing: border-box;
-margin-top: 100%;
-position: absolute;
-left: 0px;
-bottom: 0px;
+left: 20px;
+right: 20px;
 }
