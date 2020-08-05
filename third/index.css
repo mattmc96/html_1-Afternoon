@@ -26,6 +26,20 @@ right: 20px;
 
 
 
+#box-text {
+    font-size: 40px;
+    text-align: left;
+    position: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    word-wrap: break-word;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: unset;
+}
+
 .box2 {
 height: 400px;
 width: 100%;
